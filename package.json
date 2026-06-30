@@ -2,7 +2,7 @@
 	"name": "Night-Monokai",
 	"displayName": "Night Monokai Theme",
 	"description": "A beautiful Night Monokai theme.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "Omidpour",
 	"engines": {
 		"vscode": "^1.60.0"

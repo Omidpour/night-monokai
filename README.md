@@ -4,7 +4,7 @@ A beautiful, Night Monokai-inspired theme for Visual Studio Code.
 This theme is based on One Monokai by Joshua Azemoh.
 
 ## Screenshot
-Screenshot of Ruby and JavaScript
+Screenshot JavaScript
 
 ![Theme Screenshot](https://github.com/Omidpour/night-monokai/raw/HEAD/screenshot-v0.2.0.png)
 

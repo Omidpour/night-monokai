@@ -1,0 +1,36 @@
+{
+	"name": "Night-Monokai",
+	"displayName": "Night Monokai Theme",
+	"description": "A beautiful Night Monokai theme.",
+	"version": "1.0.0",
+	"publisher": "Omidpour",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Night Monokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/NightMonokai-color-theme.json"
+			}
+		]
+	},
+	"author": "Omidpour",
+	"license": "MIT",
+		"repository": {
+		"type": "git",
+		"url": "https://github.com/Omidpour/night-monokai.git"
+	},
+	"homepage": "https://github.com/Omidpour/night-monokai/blob/master/README.md",
+	"keywords": [
+		"Vscode",
+		"Theme",
+		"Onedark",
+		"Monokai"
+	]
+}
